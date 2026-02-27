@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Modules",
+    "pages/ModelTraining",
+    "pages/ImageProcessing",
+    "pages/LargeLanguageModels",
+    "pages/NeuralNetworks",
+    "pages/ReinforcementLearning",
+    "pages/DesicionTrees",
+    "pages/AnomalyDetection"
+  ]
+}
