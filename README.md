@@ -24,7 +24,7 @@ Uygulama, her biri farklı bir AI disiplinini temsil eden 7 ana modülden oluşu
 
 ## 📸 Ekran Görüntüleri
 
-| Komuta Merkezi (Dashboard) | Q-Learning (Otonom Robot) | LLM (Softmax Olasılıkları) |
+| Komuta Merkezi (Dashboard) | Q-Learning (Otonom Robot) | Ağ Güvenliği |
 
 <img width="205" height="408" alt="Ekran görüntüsü 2026-02-28 170309" src="https://github.com/user-attachments/assets/7144a904-77e0-4d3a-99cc-6a6aed27417b" />
 <img width="205" height="408" alt="Ekran görüntüsü 2026-02-28 170333" src="https://github.com/user-attachments/assets/c8801426-7b2d-44ad-a2f8-f711ab684177" />
