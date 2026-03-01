@@ -1,10 +1,10 @@
-# 🧠 HarmonyOS AI & Machine Learning Simulator
+# HarmonyOS AI & Machine Learning Simulator
 
 Bu proje, **ArkTS** ve **ArkUI** kullanılarak geliştirilmiş, 7 farklı yapay zeka ve makine öğrenmesi modelini canlı olarak simüle eden interaktif bir mobil laboratuvar uygulamasıdır. 
 
 Karmaşık matematiksel modelleri "kara kutu" olmaktan çıkarıp, parametrelerin (ağırlıklar, sıcaklık, epsilon vb.) sonuçları nasıl değiştirdiğini gerçek zamanlı olarak gösterir. Arayüz; gereksiz görsel karmaşadan uzak, odaklanmayı kolaylaştıran minimalist bir "Komuta Merkezi" temasıyla tasarlanmıştır.
 
-## 🚀 Özellikler ve Simülasyon Modülleri
+##  Özellikler ve Simülasyon Modülleri
 
 Uygulama, her biri farklı bir AI disiplinini temsil eden 7 ana modülden oluşur:
 
@@ -16,13 +16,13 @@ Uygulama, her biri farklı bir AI disiplinini temsil eden 7 ana modülden oluşu
 6. **Anomali Tespiti (Z-Score):** Ağ trafiği, gecikme ve paket kaybı verilerini kullanarak olası siber saldırıları (DDoS/Sızma) standart sapma ile tespit eden istatistiksel model.
 7. **Nesne Tanıma:** Lojistik Regresyon tabanlı temel sınıflandırma modeli.
 
-## 🛠 Mimari ve Teknolojiler
+## Mimari ve Teknolojiler
 
 * **Dil & Çerçeve:** ArkTS, HarmonyOS, ArkUI
 * **Durum Yönetimi (State Management):** Canlı UI güncellemeleri için `@State` ve `@Prop` dekoratörleri kullanılarak "Sığ Gözlem" (Shallow Observe) engelleri aşıldı.
 
 
-## 📸 Ekran Görüntüleri
+## Ekran Görüntüleri
 
 | Komuta Merkezi (Dashboard) | Q-Learning (Otonom Robot) | Ağ Güvenliği |
 
